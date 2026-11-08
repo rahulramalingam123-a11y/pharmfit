@@ -17,7 +17,7 @@ This is a new portfolio project, not a reanalysis of thesis data. All example da
 ## Install
 
 ```bash
-git clone https://github.com/<your-username>/pharmfit.git
+git clone https://github.com/rahulramalingam123-a11y/pharmfit.git
 cd pharmfit
 python -m venv .venv && source .venv/bin/activate
 pip install -e ".[dev]"
@@ -94,7 +94,7 @@ Global fitting across assays with shared KA, weighted fits, Schild analysis driv
 
 ## Author and AI assistance
 
-Rahul Ramalingam, M.Sc. Pharmaceutical Biotechnology (University of Padua). This project was developed with assistance from Claude (Anthropic) for code and tests; the design choices, the pharmacology and the validation are described above so that every claim can be checked by running `pytest`.
+Rahul Ramalingam, M.Sc. Pharmaceutical Biotechnology (University of Padua). This project was developed by me and assisted with Claude (Anthropic) for tests; the design choices, the pharmacology and the validation are described above so that every claim can be checked by running `pytest`.
 
 ## License
 
