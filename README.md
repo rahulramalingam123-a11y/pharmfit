@@ -1,4 +1,5 @@
-# pharmfit
+   ![tests](https://github.com/rahulramalingam123-a11y/pharmfit/actions/workflows/tests.yml/badge.svg)
+   # pharmfit
 
 Concentration–response analysis for receptor pharmacology, in Python.
 
