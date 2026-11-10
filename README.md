@@ -93,9 +93,6 @@ The expected values come from the operational model (Emax = τ / (1 + τ) with �
 
 Global fitting across assays with shared KA, weighted fits, Schild analysis driven directly from raw curves, and an `operational` command in the CLI.
 
-## Author and AI assistance
-
-Rahul Ramalingam, M.Sc. Pharmaceutical Biotechnology (University of Padua). This project was developed by me and assisted with Claude (Anthropic) for tests; the design choices, the pharmacology and the validation are described above so that every claim can be checked by running `pytest`.
 
 ## License
 
